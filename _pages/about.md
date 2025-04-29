@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Mingyi Li and it's my pleasure to welcome you to my personal webpage. I'm currently working towards my Ph.D. degree at [Institute of Intelligent Computing (IIC)](https://iic.sdu.edu.cn/) , Shandong University (SDU), supervised by [Prof. Xiao Zhang](https://tobexiao1.github.io/xiaozhangsdu.github.io/), and [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ). Prior to pursuing my doctoral studies, I completed my B.S. degrees in Computer Science and Technology from the Shandong university in 2022.
+Hello, my name is Mingyi Li (李铭祎) and it's my pleasure to welcome you to my personal webpage. I'm currently working towards my Ph.D. degree at [Institute of Intelligent Computing (IIC)](https://iic.sdu.edu.cn/) , Shandong University (SDU), supervised by [Prof. Xiao Zhang](https://tobexiao1.github.io/xiaozhangsdu.github.io/), and [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ). Prior to pursuing my doctoral studies, I completed my B.S. degrees in Computer Science and Technology from the Shandong university in 2022.
 
 My research interest includes FL or DL theory in resource-limited edge environment and the distributed optimization theory. 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=F15bMN8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>-->
