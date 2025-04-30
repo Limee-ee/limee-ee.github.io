@@ -30,24 +30,27 @@ My research interest includes FL or DL theory in resource-limited edge environme
 ## Conference Papers
 - Resource-Aware Federated Self-Supervised Learning with Global Class Representations [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html)]  
   *Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing Systems (Neurips 2024)*  
-  **Mingyi Li**, Xiao Zhang\*, Qi Wang, Tengfei Liu, Ruofan Wu, Weiqiang Wang, Fuzhen Zhuang, Hui Xiong, Dongxiao Yu\*
+  <u>**Mingyi Li**<\u>, Xiao Zhang\*, Qi Wang, Tengfei Liu, Ruofan Wu, Weiqiang Wang, Fuzhen Zhuang, Hui Xiong, Dongxiao Yu\*
 
 - Federated Dynamic Graph Fusion Framework for Remaining Useful Life Prediction [[paper](https://link.springer.com/chapter/10.1007/978-3-031-71467-2_13)]  
   *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2024)*  
-  Jun Wang, Qi Wang, **Mingyi Li**, Xiao Zhang\*, Dongxiao Yu\*
+  Jun Wang, Qi Wang, <u>**Mingyi Li**<\u>, Xiao Zhang\*, Dongxiao Yu\*
 
 - Theoretical Convergence Guaranteed Resource-Adaptive Federated Learning with Mixed Heterogeneity [[paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599521)]  
   *Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023)*  
-  Yangyang Wang, Xiao Zhang\*, **Mingyi Li**, Tian Lan, Huashan Chen, Hui Xiong, Xiuzhen Cheng, Dongxiao Yu\*
+  Yangyang Wang, Xiao Zhang\*, <u>**Mingyi Li**<\u>, Tian Lan, Huashan Chen, Hui Xiong, Xiuzhen Cheng, Dongxiao Yu\*
 
 - Data Quality Aware Hierarchical Federated Reinforcement Learning Framework for Dynamic Treatment Regimes [[paper](https://ieeexplore.ieee.org/abstract/document/10415818)]  
   *IEEE International Conference on Data Mining (ICDM 2023) short*  
-  **Mingyi Li**, Xiao Zhang\*, Haochao Ying, Yang Li, Xu Han, Dongxiao Yu\*
+  <u>**Mingyi Li**<\u>, Xiao Zhang\*, Haochao Ying, Yang Li, Xu Han, Dongxiao Yu\*
 
 ## Preprints
+- TAMO:Fine-Grained Root Cause Analysis via Tool-Assisted LLM Agent with Multi-Modality Observation Data [[paper](https://arxiv.org/abs/2504.20462)]
+  *arXiv, 2025*
+  Qi Wang, Xiao Zhang, <u>**Mingyi Li**<\u>, Yuan Yuan, Mengbai Xiao, Fuzhen Zhuang, and Dongxiao Yu
 - Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients [[paper](https://arxiv.org/abs/2410.08457)]  
   *arXiv, 2025*  
-  Yan Li, **Mingyi Li**, Xiao Zhang\*, Guangwei Xu, Feng Chen, Yuan Yuan, Yifei Zou, Mengying Zhao, Jianbo Lu, Dongxiao Yu\*
+  Yan Li, <u>**Mingyi Li**<\u>, Xiao Zhang\*, Guangwei Xu, Feng Chen, Yuan Yuan, Yifei Zou, Mengying Zhao, Jianbo Lu, Dongxiao Yu\*
 
 
 # 💻 Services
