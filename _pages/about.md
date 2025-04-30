@@ -30,7 +30,7 @@ My research interest includes FL or DL theory in resource-limited edge environme
 ## Conference Papers
 - Resource-Aware Federated Self-Supervised Learning with Global Class Representations [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html)]  
   *Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing Systems (Neurips 2024)*  
-  <u>**Mingyi Li**<\u>, Xiao Zhang\*, Qi Wang, Tengfei Liu, Ruofan Wu, Weiqiang Wang, Fuzhen Zhuang, Hui Xiong, Dongxiao Yu\*
+  <u>Mingyi Li<\u>, Xiao Zhang\*, Qi Wang, Tengfei Liu, Ruofan Wu, Weiqiang Wang, Fuzhen Zhuang, Hui Xiong, Dongxiao Yu\*
 
 - Federated Dynamic Graph Fusion Framework for Remaining Useful Life Prediction [[paper](https://link.springer.com/chapter/10.1007/978-3-031-71467-2_13)]  
   *International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2024)*  
