@@ -27,29 +27,6 @@ layout: compress
       </article>
     </div>
     
-<div id="clustrmaps-container">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Q3fjA-lT7axmrJAxLvUg0SNYMLV8WlcgoibJh57aPAM&cl=ffffff&w=a"></script>
-</div>
-
-<script>
-  window.onload = function() {
-    const container = document.getElementById('clustrmaps-container');
-    if (container) {
-      // 找地图里的超链接（假设是 a 标签，需根据实际 DOM 调整）
-      const link = container.querySelector('a'); 
-      if (link) {
-        link.removeAttribute('href'); // 移除跳转链接
-        // 或者替换为 javascript:void(0) ，效果类似
-        // link.href = 'javascript:void(0)'; 
-        
-        // 也可以直接阻止点击
-        link.addEventListener('click', function(e) {
-          e.preventDefault();
-        });
-      }
-    }
-  };
-</script>
     {% include scripts.html %}
 
   </body>
