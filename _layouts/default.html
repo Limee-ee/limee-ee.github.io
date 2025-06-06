@@ -26,7 +26,20 @@ layout: compress
         </div>
       </article>
     </div>
- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=B7g5_R9opBtB8vdupe0RHJZBODc3Ayomgz1t7Y2rfag"></script>
+ <style>
+  .clustrmaps-container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    transform: scale(0.6);
+    transform-origin: bottom right;
+    z-index: 9999;
+  }
+</style>
+
+<div class="clustrmaps-container">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=B7g5_R9opBtB8vdupe0RHJZBODc3Ayomgz1t7Y2rfag"></script>
+</div>
     {% include scripts.html %}
 
   </body>
