@@ -26,7 +26,24 @@ layout: compress
         </div>
       </article>
     </div>
+    
+<div id="clustrmaps-container">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Q3fjA-lT7axmrJAxLvUg0SNYMLV8WlcgoibJh57aPAM&cl=ffffff&w=a"></script>
+</div>
 
+<script>
+  // 等页面加载完（确保 clustrmaps 生成了 DOM ）
+  window.onload = function() {
+    const container = document.getElementById('clustrmaps-container');
+    if (container) {
+      // 监听容器内的点击事件
+      container.addEventListener('click', function(e) {
+        e.preventDefault(); // 阻止默认跳转行为
+        e.stopPropagation(); // 阻止事件冒泡（可选，看需求）
+      }, true); // true 表示捕获阶段监听，优先拦截
+    }
+  };
+</script>
     {% include scripts.html %}
 
   </body>
