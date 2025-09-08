@@ -29,6 +29,10 @@ My research interest includes FL or DL theory in resource-limited edge environme
 <span class='anchor' id='publications'></span>
 # 📝 Publications [(Google scholar)](https://scholar.google.com/citations?user=F15bMN8AAAAJ)
 ## Conference Papers
+- PDUDT: Provable Decentralized Unlearning under Dynamic Topologies [[paper](https://openreview.net/forum?id=K0Vg8b7nyI)]  
+  *Forty-second International Conference on Machine Learning (ICML 2025)*
+  Jing Qiao, Yu Liu, Zengzhe Chen, **<u>Mingyi Li</u>**, Yuan Yuan, Xiao Zhang, Dongxiao Yu
+
 - Resource-Aware Federated Self-Supervised Learning with Global Class Representations [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html)]  
   *Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing Systems (Neurips 2024)*  
   **<u>Mingyi Li</u>**, Xiao Zhang\*, Qi Wang, Tengfei Liu, Ruofan Wu, Weiqiang Wang, Fuzhen Zhuang, Hui Xiong, Dongxiao Yu\*
@@ -56,9 +60,10 @@ My research interest includes FL or DL theory in resource-limited edge environme
 
 
 # 💻 Services
-- Conference Reviewer for NeurIPS 2024, 2025
+- Conference Reviewer for NeurIPS (2024, 2025); ICLR (2026).
 
 # 🎖 Honors and Awards
+- *2024.10* NeurIPS 2024 Scholar Award
 - *2022.06* Excellent Graduate, Department of Education, Shandong Province, China 
 - *2021.10* National Scholarship, Ministry of Education, China
 
