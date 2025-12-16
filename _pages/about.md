@@ -29,9 +29,10 @@ My research interest includes FL or DL theory in resource-limited edge environme
 <span class='anchor' id='publications'></span>
 # 📝 Publications [(Google scholar)](https://scholar.google.com/citations?user=F15bMN8AAAAJ)
 ## Conference Papers
--Generalization-Aware Distributed Minimax Optimization for Large-Scale Models on Resource-Limited Devices.
-Proceedings of the 21st International Conference on Mobility, Sensing and Networking (MSN 2025, CCF-C, **Best Paper Award**).
-**<u>Mingyi Li</u>**, Xiao Zhang\*, Yuan Yuan, Yifei Zou, Shaoyong Guo, Xiuzhen Cheng, Dongxiao Yu\*.
+
+- Generalization-Aware Distributed Minimax Optimization for Large-Scale Models on Resource-Limited Devices.  
+  *Proceedings of the 21st International Conference on Mobility, Sensing and Networking (MSN 2025, CCF-C, **Best Paper Award**)*   
+  **<u>Mingyi Li</u>**, Xiao Zhang\*, Yuan Yuan, Yifei Zou, Shaoyong Guo, Xiuzhen Cheng, Dongxiao Yu\*.  
 
 - PDUDT: Provable Decentralized Unlearning under Dynamic Topologies [[paper](https://openreview.net/forum?id=K0Vg8b7nyI)]  
   *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025, **CCF-A**)*                                         
