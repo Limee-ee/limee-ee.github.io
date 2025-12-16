@@ -29,8 +29,12 @@ My research interest includes FL or DL theory in resource-limited edge environme
 <span class='anchor' id='publications'></span>
 # 📝 Publications [(Google scholar)](https://scholar.google.com/citations?user=F15bMN8AAAAJ)
 ## Conference Papers
+-Generalization-Aware Distributed Minimax Optimization for Large-Scale Models on Resource-Limited Devices.
+Proceedings of the 21st International Conference on Mobility, Sensing and Networking (MSN 2025, CCF-C, **Best Paper Award**).
+**<u>Mingyi Li</u>**, Xiao Zhang\*, Yuan Yuan, Yifei Zou, Shaoyong Guo, Xiuzhen Cheng, Dongxiao Yu\*.
+
 - PDUDT: Provable Decentralized Unlearning under Dynamic Topologies [[paper](https://openreview.net/forum?id=K0Vg8b7nyI)]  
-  *Forty-second International Conference on Machine Learning (ICML 2025, **CCF-A**)*                                         
+  *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025, **CCF-A**)*                                         
   Jing Qiao, Yu Liu, Zengzhe Chen, **<u>Mingyi Li</u>**, Yuan Yuan, Xiao Zhang, Dongxiao Yu
 
 - Resource-Aware Federated Self-Supervised Learning with Global Class Representations [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html)]  
@@ -63,6 +67,7 @@ My research interest includes FL or DL theory in resource-limited edge environme
 - Conference Reviewer for NeurIPS (2024, 2025); ICLR (2026).
 
 # 🎖 Honors and Awards
+- *2025.12* MSN 2025 Best Paper Award
 - *2024.10* NeurIPS 2024 Scholar Award
 - *2022.06* Excellent Graduate, Department of Education, Shandong Province, China 
 - *2021.10* National Scholarship, Ministry of Education, China
