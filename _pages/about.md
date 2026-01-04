@@ -61,7 +61,12 @@ My research interest includes FL or DL theory in resource-limited edge environme
 
 - Unity is Power: Semi-Asynchronous Collaborative Training of Large-Scale Models with Structured Pruning in Resource-Limited Clients [[paper](https://arxiv.org/abs/2410.08457)]  
   *Accepted to Appear in IEEE Transactions on Mobile Computing, 2025, **CCF-A***  
-  Yan Li, **<u>Mingyi Li</u>**, Xiao Zhang\*, Guangwei Xu, Feng Chen, Yuan Yuan, Yifei Zou, Mengying Zhao, Jianbo Lu, Dongxiao Yu\*
+  Yan Li, **<u>Mingyi Li</u>**, Xiao Zhang\*, Guangwei Xu, Feng Chen, Yuan Yuan, Yifei Zou, Mengying Zhao, Jianbo Lu, and Dongxiao Yu\*
+
+## Under review
+- Distributed Bilevel Optimization with Dual Pruning for Resource-limited Clients [[paper](https://arxiv.org/abs/2512.24667)]  
+  *arxiv*  
+  **<u>Mingyi Li</u>**, Xiao Zhang, Ruisheng Zheng, Hongjian Shi, Yuan Yuan, Xiuzhen Cheng, and Dongxiao Yu
 
 
 # 💻 Services
