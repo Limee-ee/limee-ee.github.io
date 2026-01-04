@@ -32,11 +32,11 @@ My research interest includes FL or DL theory in resource-limited edge environme
 
 - Generalization-Aware Distributed Minimax Optimization for Large-Scale Models on Resource-Limited Devices.  
   *Proceedings of the 21st International Conference on Mobility, Sensing and Networking (MSN 2025, CCF-C, **Best Paper Award**)*   
-  **<u>Mingyi Li</u>**, Xiao Zhang\*, Yuan Yuan, Yifei Zou, Shaoyong Guo, Xiuzhen Cheng, Dongxiao Yu\*.  
+  **<u>Mingyi Li</u>**, Xiao Zhang\*, Yuan Yuan, Yifei Zou, Shaoyong Guo, Xiuzhen Cheng, Dongxiao Yu\*
 
 - DGTF: Cross-Domain Decentralized Graph Learning with Topology-Aware Knowledge Fusion.
-  *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026, **CCF-A**)*
-  Ruisheng Zheng, **<u>Mingyi Li</u>**, Xiao Zhang\*, Hongjian Shi, Yanjie Fu, YUAN YUAN, Dongxiao Yu.
+  *Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026, **CCF-A**)*           
+  Ruisheng Zheng, **<u>Mingyi Li</u>**, Xiao Zhang\*, Hongjian Shi, Yanjie Fu, Yuan Yuan, Dongxiao Yu
 
 - PDUDT: Provable Decentralized Unlearning under Dynamic Topologies [[paper](https://openreview.net/forum?id=K0Vg8b7nyI)]  
   *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025, **CCF-A**)*                                         
