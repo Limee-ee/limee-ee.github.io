@@ -29,6 +29,13 @@ My research interest includes FL or DL theory in resource-limited edge environme
 <span class='anchor' id='publications'></span>
 # 📝 Publications [(Google scholar)](https://scholar.google.com/citations?user=F15bMN8AAAAJ)
 ## Conference Papers
+- DeMIC: Decentralized Meta In-Context Learning with Refiner-Guided Adaptation.  
+  *Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2026, **CCF-A**)*   
+  **<u>Mingyi Li</u>**, Xiao Zhang\*, Zengzhe Chen, Jiawei Zhang, Yuan Yuan, Wei Guo, Fuzhen Zhuang, Dongxiao Yu.
+
+- Forgetting Whenever You Want: A Decentralized Continual Learning Framework with On-Demand Unlearning.    
+  *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026, **CCF-A**)*  
+  Xiao Zhang, Zengzhe Chen, **<u>Mingyi Li</u>**\*, Jing Qiao, Yuan Yuan\*, Fuzhen Zhuang, Dongxiao Yu.
 
 - Generalization-Aware Distributed Minimax Optimization for Large-Scale Models on Resource-Limited Devices.  
   *Proceedings of the 21st International Conference on Mobility, Sensing and Networking (MSN 2025, CCF-C, **Best Paper Award**)*   
